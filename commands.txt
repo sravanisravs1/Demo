@@ -1,0 +1,124 @@
+    1  git init
+    2  ls -al
+    3  ls .git
+    4  touch file1
+    5  git status
+    6  git add file1
+    7  git status
+    8  git log
+    9  touch file2
+   10  git status
+   11  git add file2
+   12  git status
+   13  git commit -m "commited'
+   14  git commit -m "commited" file1
+   15  git status
+   16  ls
+   17  git log
+   18  git commit -m file1 "committed"
+   19  git commit -m file1 "commited"
+   20  git commit -m file1 "file1"
+   21  git commit -m file1 
+   22  ls
+   23  git log
+   24  w
+   25  git commit -m "commit file1"
+   26  git config --global 
+   27  git config --global 
+   28  git commit -m "commit file1"
+   29  git config --global sravanisravs1.kodurusravani813@gmail.com
+   30  git commit -m "commit file1"
+   31  git config --global sravanisravs1.sravani
+   32  git commit -m "commit file1"
+   33  git config --global sravanisravs1.kodurusravani813@gmail.com
+   34  git config --global sravanisravs1.sravani
+   35  git commit -m "commit file1"
+   36  git config --global kodurusravani813@gmail.com
+   37  git config --global sravanisravs1.kodurusravani813@gmail.com
+   38  git config --global sravanisravs1.sravani
+   39  git commit -m "commit file1"
+   40  omit --global
+   41  Omit --global
+   42  0mit --global
+   43  nano/home/user_name/.gitconfig
+   44  git config --global user.name "sravanisravs1"
+   45  git commit -m "commit file1"
+   46  git config --global user.email "kodurusravani813@gmail.com"
+   47  git commit -m "commit file1"
+   48  git log
+   49  git commit -m file2 "commited"
+   50  git commit -m file2 "file1"
+   51  git log
+   52  git commit -m file2 "file1"
+   53  git commit -m file1 "file1"
+   54  ls -al
+   55  git init
+   56  touch file1
+   57  git init
+   58  git commit -m 'first commit'
+   59  git config --global user.email "kodurusravani813@gmail.com"
+   60  git config --global user.name "sravanisravs1"
+   61  git commit -m
+   62  git commit -m "first commit"
+   63  git add *
+   64  git commit -m "first commit"
+   65  git branch -M main
+   66  git remote add origin https://github.com/sravanisravs1/Demo.git
+   67  git push -u origin main
+   68  git push -u origin main
+   69  git remote add origin https://github.com/sravanisravs1/Demo
+   70  git push -u origin main
+   71  touch .gitignore
+   72  touch app.py
+   73  touch app.py
+   74  ll
+   75  touch sravani
+   76  git add*
+   77  git add *
+   78  git commit -m "commit sravani"
+   79  git push
+   80  git checkout -sravani
+   81  git checkout -b
+   82  git branch
+   83  git checkout -sravani
+   84  git checkout -b sravani
+   85  git checkout -b sravani
+   86  checkout sravani
+   87  git checkout -b sravani
+   88  git branch
+   89  ll
+   90  git log
+   91  history
+   92  touch app.txt
+   93  git commit -m "commit all files"
+   94  git add *
+   95  git commit "committing all files"
+   96  git commit -m "committing all files"
+   97  git push
+   98  cd /home/user/my_project
+   99  cd C:/Users/user/my_project
+  100  cd C:/Users/user/Demo
+  101  git init
+  102  cd: C:/Users/Admin/Desktop/Demo/.git/
+  103  cd: C:/Users/Admin/Desktop/Demo:
+  104  git status
+  105  git add *
+  106  git status
+  107  git add sravani.txt
+  108  touch sravani.txt
+  109  git add *
+  110  git status
+  111  git status -s
+  112  cat .gitignore
+  113  git checkout main
+  114  git status
+  115  git diff
+  116  git branch
+  117  rm sravani.txt
+  118  git app.py
+  119  git mv app.py from Demo to sravani 
+  120  git mv app.py from Demo to file1
+  121  git mv app.py from Demo to Demo2
+  122  git mv app.py from Demo to Demo2
+  123  git mv app.py sravani
+  124  history > commands.txt
